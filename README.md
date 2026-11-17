@@ -29,7 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikattri773&show_icons=true&locale=en" alt="ritikattri773" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikattri773&" alt="ritikattri773" /></p>
-<h1>Hi 👋, I am Daniel </h1>
+<h1>Hi 👋, I am Ritik Atri </h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danieltayal07/danieltayal07/output/github-snake-dark.svg" />
